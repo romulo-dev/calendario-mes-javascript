@@ -1,0 +1,78 @@
+.card{
+    border: 2px transparent;
+    /* padding: 50px 10px; */
+    width: 800px;
+    margin: 0 auto;
+    height: 600px;
+    
+}
+
+
+
+table{
+    width: 90%;
+    margin: auto;
+    border: 1px solid;
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    margin-top: 8%;
+    margin-bottom: 8%;
+    
+    
+    
+}
+
+table thead.cabecalho{
+    background-color: #428bca;
+    color: #fff;
+    height: 100px;
+    border: 1px solid;
+}
+
+.esquerda:before{
+    content: "";
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 10px;
+  width: 0px; 
+  height: 0px;
+  float: left;
+  margin-left: 15px;
+  color: black;  
+  border-top: 10px solid transparent;
+  border-bottom: 10px solid transparent; 
+  border-right: 10px solid white;
+}
+
+.direita:after {
+    content: "";
+    /* display: inline-block; */
+    vertical-align: middle;
+     margin-left: 10px; 
+    width: 0px; 
+    height: 0px; 
+    float: right;
+    margin-right: 15px;
+    border-top: 10px solid transparent;
+    border-bottom: 10px solid transparent;
+    border-left: 10px solid white;
+  }
+
+
+table thead.diasSemana{
+    background-color: #efefef;
+    color: black;
+    border: 1px solid;
+    border-top: 4px solid #2066A3;
+    height: 50px;
+    /* border-top: 4px solid #2066A3 */
+}
+
+table tr{
+    margin: 0px;
+}
+
+table td{
+    border: 1px solid gray;
+    height: 50px;
+}
