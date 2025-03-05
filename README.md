@@ -40,5 +40,5 @@ Sinta-se à vontade para contribuir com melhorias e sugestões! Para colaborar:
 
 ## 📬 Contato
 
-📩 Para mais informações ou sugestões, entre em contato pelo meu LinkedIn: [Seu Nome](https://www.linkedin.com/in/seu-perfil/)
+📩 Para mais informações ou sugestões, entre em contato pelo meu LinkedIn: [Linkedin](https://www.linkedin.com/in/romulo-soares-rocha/)
 
